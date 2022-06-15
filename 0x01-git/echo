@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "ALX School is so cool!" ALX
+=======
+echo "The school is open!" School
+>>>>>>> update_script
